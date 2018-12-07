@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "151431845012",
+    "firebase_url": "https://letorent-da9dc.firebaseio.com",
+    "project_id": "letorent-da9dc",
+    "storage_bucket": "letorent-da9dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151431845012:android:b68894269a3e577e",
+        "android_client_info": {
+          "package_name": "cf.simpledevelopers.letorent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151431845012-lv039uj6kqe9bh42vs6ugnhsue246st4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKc50hp0ShmavENx2cQ-pToNd2i1FPPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539694305251",
+    "firebase_url": "https://letorent-e9740.firebaseio.com",
+    "project_id": "letorent-e9740",
+    "storage_bucket": "letorent-e9740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539694305251:android:b68894269a3e577e",
+        "android_client_info": {
+          "package_name": "cf.simpledevelopers.letorent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539694305251-vrtepclgk0rb8doklkfm68q4rlj7ft7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.simpledevelopers.letorent",
+            "certificate_hash": "1afdf88b4481d45e18a08332dd880aa614b1060d"
+          }
+        },
+        {
+          "client_id": "539694305251-rtmcnoa9nee1mkvejldhk8poeibgvo1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNM6UVRgD_XCVMiW_cU187p7aVW7TeO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539694305251-rtmcnoa9nee1mkvejldhk8poeibgvo1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

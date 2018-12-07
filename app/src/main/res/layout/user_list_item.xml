@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:elevation="@dimen/padding"
+    android:padding="4dp"
+    android:layout_margin="20dp"
+     android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:layout_height="wrap_content">
+    <TextView
+
+        android:textColor="@color/colorAccent"
+        android:id="@+id/tv_numRooms"
+        android:paddingStart="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/padding"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:text="@string/temp_houses"
+        android:textStyle="bold"/>
+    <TextView
+        android:textColor="@color/colorAccent"
+        android:id="@+id/tv_address"
+        android:textStyle="bold"
+        android:paddingLeft="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/padding"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:text="@string/temp_address"/>
+
+    <TextView
+        android:textColor="@color/colorAccent"
+        android:id="@+id/tv_city"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:text="@string/temp_city"
+        android:paddingStart="@dimen/padding"
+        android:paddingTop="@dimen/padding"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        />
+
+
+</LinearLayout>
+
+</RelativeLayout>
